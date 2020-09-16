@@ -19,6 +19,16 @@
       "id": 4,
       "nome": "Gabriel",
       "mensagem": "Esta é uma nova postagem!"
+    },
+    {
+      "id": 4,
+      "nome": "Gabriel",
+      "mensagem": "Esta é uma nova postagem!"
+    },
+    {
+      "nome": "Breno Souza",
+      "mensagem": "Este é um teste do Post",
+      "id": 5
     }
   ]
 }
